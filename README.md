@@ -1,5 +1,6 @@
 
 ## Hotel Booking Analytics Dashboard
+![](hotel_booking_dashboard.PNG)
 ### Overview
 This project delivers an interactive dashboard built in Power BI to analyze hotel bookings for two properties in Portugal: H1 (Resort Hotel in Algarve) and H2 (City Hotel in Lisbon). It provides KPIs, trend analyses, and detailed breakdowns to help stakeholders drive revenue, reduce cancellations, and optimize operations.
 ### Dataset
