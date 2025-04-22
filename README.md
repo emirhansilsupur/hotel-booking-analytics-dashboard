@@ -29,8 +29,7 @@ The underlying dataset contains 87,396 records of bookings with the following ke
 3. Guest Behavior
     - What lead‑time segments account for the highest booking volume and cancellation counts?
     - How does average stay duration differ between city and resort guests across top markets?
-    - What share of bookings comes from repeat guests, and how does that vary by segment?
 
 4. Market Segmentation
     - Which market segments, distribution channels, and customer types contribute most to revenue and profitability?
-    - How are bookings distributed by meal package choices across both hotels?
+
